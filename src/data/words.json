@@ -1,0 +1,44 @@
+{
+  "words": [
+    {
+      "word": "Sex Education",
+      "taboos": ["Mamma", "Sessuologa", "Otis", "Masturbazione"]
+    },
+    {
+      "word": "Dr House",
+      "taboos": ["Medico", "Bastone", "Lupus", "Zoppo"]
+    },
+    {
+      "word": "Chuck",
+      "taboos": ["Buy More", "Bartowsku", "Agente segreto", "Supercomputer"]
+    },
+    {
+      "word": "Sherlock",
+      "taboos": ["Watson", "Investigatore", "Pipa", "Moriarty"]
+    },
+    {
+      "word": "13 Reasons Why",
+      "taboos": ["Suicidio", "Stupro", "College", "Cassette"]
+    },
+    {
+      "word": "Orange Is The New Black",
+      "taboos": ["Carcere", "Donne", "Lesbiche", "Baffo"]
+    },
+    {
+      "word": "La Casa Di Carta",
+      "taboos": ["Zecca di stato", "Rapina", "Bella ciao", "Nairobi"]
+    },
+    {
+      "word": "Spartacus",
+      "taboos": ["Roma", "Gladiatori", "Capua", "Sangue"]
+    },
+    {
+      "word": "Da Vinci's Demons",
+      "taboos": ["Leonardo", "De Medici", "Firenze", "Gioconda"]
+    },
+    {
+      "word": "Scrubs",
+      "taboos": ["Medici", "JD", "Turk", "Cox"]
+    }
+  ]
+}
